@@ -885,7 +885,7 @@
 }
 
 .text-underline-hover:hover {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 .text-indent{
   padding-left: 1rem;
